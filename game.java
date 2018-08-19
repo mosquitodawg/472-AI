@@ -1,7 +1,7 @@
 import java.awt.Point; 
 import java.util.Scanner;
 
-public class game {
+public class game { 
 
 	private boolean gameover=false;
 	private int playerTurn;

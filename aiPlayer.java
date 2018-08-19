@@ -4,7 +4,7 @@ import java.util.*;
 
 
 
-public class aiPlayer extends player {
+public class aiPlayer extends player { 
 
 	static Point helperPoint=new Point();
 	

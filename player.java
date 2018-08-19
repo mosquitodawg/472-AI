@@ -1,6 +1,6 @@
 import java.awt.Point;
 import java.util.Scanner;
-
+ 
 
 public class player {
 

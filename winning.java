@@ -1,6 +1,6 @@
 import java.awt.Point;
 
-public class winning {
+public class winning { 
 	private static board board;
 	private String[][] boardClone;
 	private final static int POINTS_FOR_LADDER=5;

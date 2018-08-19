@@ -1,5 +1,5 @@
 import java.awt.Point;
-public class valueOfMove {
+public class valueOfMove { 
 	
 	Point move;
 	
